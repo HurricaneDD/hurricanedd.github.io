@@ -10,6 +10,10 @@
 
 个人常用提供天气、气象相关信息网站的导航与汇总。按照适用季节和场景分出“冬季”、“夏季”、“摄影”三个模块。
 
+### [C语言学习笔记-思维导图](https://hurricanedd.github.io/nuaa-c-notes/)
+
+个人的C语言学习笔记（思维导图），可供学习参考，欢迎下载。
+
 ## 联系我
 
 - **Github**：[HurricaneDD](https://github.com/HurricaneDD)
