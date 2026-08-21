@@ -18,7 +18,7 @@
 
 南京航空航天大学 - 程序设计语言（C语言）（经管相关专业）：我的C语言学习笔记 & 思维导图，可供学习参考，欢迎下载。
 
-### [安卓APP - 分类相册](https://github.com/HurricaneDD/CategoricalGallery)
+### [安卓APP - 分类相册](https://hurricanedd.github.io/CategoricalGallery)
 
 与系统相册独立的一个照片管理器，支持将若干相册分配到不同工作区，便于管理照片和相册。
 
