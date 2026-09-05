@@ -2,7 +2,7 @@
 
 ## 我的项目
 
-### [安卓APP - RTL SDR LBJ列车预警信号接收和解析器](https://hurricanedd.github.io/RTL_SDR_LBJ_RECEIVER_Android)
+### [安卓APP - RTL SDR LBJ列车预警信号接收和解析器](https://hurricanedd.github.io/Andorid_RTL_SDR_LBJ_RECEIVER)
 
 安卓端 RTL_SDR_LBJ（列车报警系统）信号接收和解析APP，参考原项目Python脚本完成：https://github.com/Sdr-Is-Fun/RTL_SDR_LBJ_RECEIVER
 
